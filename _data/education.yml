@@ -1,6 +1,13 @@
 # Degree
-- degree: Full Stack Webdeveloper Nanodegree
-  uni: Udacity
+
+- degree: Full Stack Webdeveloper Nanodegree 
+  uni: Udacity 
   year: June, 2014 &mdash; January, 2015
-  awards: Most Dedicated Student per Optional Activities Completed
-  summary: Spent 6 dedicated months working 12 hour days to build out multiple real world apps and websites.
+  # awards: Most Dedicated Student per Optional Activities Completed
+  # summary: Spent 6 dedicated months working 12 hour days to build out multiple real world apps and websites.
+  
+- degree: Astronaut 
+  uni: Nasa
+  year: May 2018
+  # awards: Given the "Float in space like a Pro" award
+  # summary: I can fly to the moon now. To infinity and beyond! 
